@@ -128,9 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#Data
-data/imdb_top_1000.csv
-data/tableclean.csv
 
-#Images
-images/screenshots/
