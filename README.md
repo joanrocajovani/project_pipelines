@@ -8,7 +8,7 @@ I found a list on the IMBD website containing all the Best Picture winning movie
 From there, I created a new column which was true if the movie was in the list of Oscar winners.
 Then, I filled all the remaining values with false, so I finally got a column telling me if the movie had won the oscar or not.
 
-<img src="images/screenshots/oscar_column.png" width="75" height="250">
+<img src="images/screenshots/oscar_column.png">
 
 ### Cleaning:
 Initially the data frame contained these columns:
